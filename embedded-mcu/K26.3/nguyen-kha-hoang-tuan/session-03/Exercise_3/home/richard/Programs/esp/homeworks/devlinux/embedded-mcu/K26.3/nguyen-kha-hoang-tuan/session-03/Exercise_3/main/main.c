@@ -1,4 +1,4 @@
-/* Header
+/* HEADER
  * Input: Button
  * Output: 7-Segment Display with Common Anode
  * Method: Bare Metal + Polling
