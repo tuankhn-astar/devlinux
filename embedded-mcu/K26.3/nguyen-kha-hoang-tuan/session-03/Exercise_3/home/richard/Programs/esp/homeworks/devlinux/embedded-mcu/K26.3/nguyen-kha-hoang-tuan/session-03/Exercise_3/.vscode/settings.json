@@ -24,5 +24,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=/home/richard/Programs/esp/homeworks/devlinux/embedded-mcu/K26.3/nguyen-kha-hoang-tuan/session-03/Exercise_3/home/richard/Programs/esp/homeworks/devlinux/embedded-mcu/K26.3/nguyen-kha-hoang-tuan/session-03/Exercise_3/build"
-  ]
+  ],
+  "idf.currentSetup": "/home/richard/.espressif/v5.2/esp-idf"
 }
